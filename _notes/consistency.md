@@ -12,14 +12,14 @@ A purposeful and unmeaningful blend. A microcosm of energies. A fusion.
 You can do something amazing with your life and then get hit by a car and life itself will still be amazing.
 
 You are currently reading a specific pattern of thoughts that ran through my mind in a virtual conversation. We’ll probably never meet. When is this going to stop being amazing? I am part of you. You are part of me. At this very moment. It is happening.
-> *A good scoping definition to start with is: life is the objectively observable and subjectively experienceable existence of a living being over its lifetime. - Venkatesh Rao
+> A good scoping definition to start with is: life is the objectively observable and subjectively experienceable existence of a living being over its lifetime. - Venkatesh Rao
 
 
 So if I get hit by a car, will I really be dead? Was I ever alive? Your 10-year-old-self had hopes, dreams, fears. Aren’t those integrated into the overall structure of the world? Into you? Into my present self?
 
 You are just a set of energies, ideas, thoughts, and genetic variations. The energy floats around. It is a big mix where we all have access.
 
-> *In the modern experience of being, the most legible understanding of life is as a process of documented accumulation. You are less of something in the past, and more of it in the future, and might be complete or incomplete something at the end. That something is your life. A degenerate version of the accumulation mental model is a financial one. Your “net worth” is a summary state of your life. You might die bankrupt or leaving a fortune to heirs, and philosophize either pattern of accumulation. - Venkatesh Rao
+> In the modern experience of being, the most legible understanding of life is as a process of documented accumulation. You are less of something in the past, and more of it in the future, and might be complete or incomplete something at the end. That something is your life. A degenerate version of the accumulation mental model is a financial one. Your “net worth” is a summary state of your life. You might die bankrupt or leaving a fortune to heirs, and philosophize either pattern of accumulation. - Venkatesh Rao
 
 You can choose to have a view where the world is dreadful and unpleasant. Or you can have a view where you say:
 
