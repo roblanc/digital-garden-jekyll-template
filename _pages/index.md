@@ -7,10 +7,6 @@ permalink: /
 
 ## hello.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
 You've managed to find your way into my working notes, which I've accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux. I also post/experiment with visual stuff [on my YouTube channel](https://www.youtube.com/c/RobertBlanc), ideas and theories that interest me. I use it to alleviate boredom and occasionally heighten my thought processes.
 
 Content curation is crucial in a society where knowledge is abundant. A form of artistic expression. Curating is all about spotting the hidden gems and putting your skills and enthusiasm to work highlighting the bits that matter to you.
