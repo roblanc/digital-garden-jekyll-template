@@ -8,7 +8,7 @@ permalink: /about
 
 I am generally interested in anything that doesn't reduce my optionality and things that you can do once that work in perpetuity.
 
-This page is a basic tl;dr of my philosophical foundation.
+This page is a basic tl;dr of my philosophical foundation. So yeah.
 
 
 ### **My current nano-philosophy**
