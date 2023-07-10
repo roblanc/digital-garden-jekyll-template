@@ -3,6 +3,7 @@ title: How to read higher quality books
 --- 
 
 [Sturgeon’s law]([https://en.wikipedia.org/wiki/Sturgeon's_law#:~:text=Sturgeon's law (or Sturgeon's revelation,science fiction author and critic.)](https://en.wikipedia.org/wiki/Sturgeon%27s_law#:~:text=Sturgeon's%20law%20(or%20Sturgeon's%20revelation,science%20fiction%20author%20and%20critic.)) is a philosophical aphorism that states that 90% of everything is crap. And, of course, you should take this with a grain of salt.
+
 > “All things — cars, books, cheeses, hairstyles, people and pins are, to the expert and discerning eye, crud, except for the acceptable tithe which we each happen to like.”
 
 > *— From Theodore Sturgeon’s “On Hand: A Book” (published in Venture Science Fiction, September* *[1957](https://archive.org/details/Venture_v01n05_1957-09_Gorgon776/)**, Vol. 1, №5, pp. 49–50)*
