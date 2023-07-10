@@ -11,9 +11,13 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+You've managed to find your way into my working notes, which I've accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux. I also post/experiment with visual stuff [on my YouTube channel](https://www.youtube.com/c/RobertBlanc), ideas and theories that interest me. I use it to alleviate boredom and occasionally heighten my thought processes.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Content curation (craftdocs://open?blockId=7EFFB30B-9FBC-4F30-A8FB-0FDD56B39891&spaceId=ff2ca708-4452-8a9a-189d-1d1237b86794) is crucial in a society where knowledge is abundant. A form of artistic expression. Curating is all about spotting the hidden gems and putting your skills and enthusiasm to work highlighting the bits that matter to you.
+
+
+If you want to hear about what I'm building, writing, and thinking about each week, then my Newsletter ➜ [here](https://linkincubator.substack.com/) 🫀
+
 
 <strong>Recently updated notes</strong>
 
