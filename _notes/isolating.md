@@ -1,5 +1,5 @@
 ---
-titile: Are humans isolating themselves to death?
+title: Are humans isolating themselves to death?
 ---
 
 You can spray out a substance on your skin and mosquitoes will stop attacking you. And then you won’t have to think about that for the rest of your day.

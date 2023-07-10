@@ -7,7 +7,6 @@ I found that organising your physical space in such a way that you have various 
 
 ### Blocked in your own rectangle
 
-
 But if you are working in the digital space, you are not making use of your peripheral vision that much. Mostly because we can pretty much capture everything on our screens, but, also, because we think that productivity is only about getting from point A to point B without distraction and full focus. This is why our apps allow us to enter into a full-focus mode, where only you and the app exists.
 
 Nowadays, you are mostly stuck inside your own rectangle. This thing we call a computer.
