@@ -5,6 +5,7 @@ title: A Hannibalistic aproach to life
 ***Created**: 12/6/2019; **Updated**: 8/5/2020;*
 
 **‍**The first time I heard about [Hannibal Lecter](https://en.wikipedia.org/wiki/Hannibal_Lecter) was back in 2018 by watching [The Silence of the Lambs](https://www.imdb.com/title/tt0102926/) (1991). The second time I heard about Hannibal Lecter was in February 2019 by watching the [Hannibal TV Series](https://www.imdb.com/title/tt2243973/?ref_=nv_sr_1?ref_=nv_sr_1). Then I read the books but I was already fascinated by the TV series.
+
 > You spend a lot of time building walls, Hannibal. It’s natural to want to see if someone is clever enough to climb over them.‍
 
 Hannibal represents what [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) called [The Ubermensch](https://en.wikipedia.org/wiki/%C3%9Cbermensch). Much of Nietzsche’s reasoning is tied to the decay of theistic belief that he describes as The Death of God. The Ubermensch is a structure one can use and replicate to find a distinct moral path that celebrates life as opposed to rejecting it. The Ubermensch absorbs life’s sorrows and delights alike and accepts hard facts and truths without complaint. His will is creative, fueled by ambition, life-affirming, and tirelessness. It is about striving to become the highest possible self.
