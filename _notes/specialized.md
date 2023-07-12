@@ -1,5 +1,5 @@
 ---
-title:  
+title: Become a specialized generalist
 ---
 
 This is why you want to expand your knowledge and skill repertoire so that you can gain some competitive advantage.
@@ -50,7 +50,7 @@ And one might argue that if you want to go with a full Artificial Intelligence s
 
 That’s the top skill on our resume when being interviewed by an Artificial Intelligence entity.
 
-Your brain spends a lot of effort trying to convey a complex idea into words. There’s a lot of words in between.
+Your brain spends a lot of effort trying to convey a complex idea into words. There’s a lot of noise in between. Clarity of thought is compromised. 
 
 Imagine trying to explain the concept of living in a simulation to your grandmother who was born during the war and never heard of Sims. Information loss occurs right from the first word.
 
