@@ -4,6 +4,9 @@ title: George Hotz
 Description:
 _George Francis Hotz (born October 2, 1989), alias geohot, is an American security hacker, entrepreneur, and software engineer. He is known for developing iOS jailbreaks, reverse engineering the PlayStation 3, and for the subsequent lawsuit brought against him by Sony. Since September 2015, he has been working on his vehicle automation machine learning company comma.ai. Since November 2022, Hotz has been working on tinygrad, a deep learning framework._
 
+## Podcast notes
+
+- [[George Hotz on Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God | Lex Fridman Podcast #387]]
 
 ## Quotes & other bits 
 
