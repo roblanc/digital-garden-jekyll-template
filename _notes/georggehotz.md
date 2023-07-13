@@ -1,5 +1,5 @@
 ---
-title: George Hotz: Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God | Lex Fridman Podcast #387
+title: George Hotz on Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God | Lex Fridman Podcast #387
 ---
 
 1000$ to talk to him for 30 minutes
