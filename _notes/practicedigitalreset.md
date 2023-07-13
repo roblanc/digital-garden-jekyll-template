@@ -1,5 +1,5 @@
 ---
-title:
+title: Practice digital reset
 ---
 I am unsubscribing from everything.
 
