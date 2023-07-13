@@ -11,12 +11,11 @@ You've managed to find your way into my working notes, which I've accumulated ov
 
 Content curation is crucial in a society where knowledge is abundant. A form of artistic expression. Curating is all about spotting the hidden gems and putting your skills and enthusiasm to work highlighting the bits that matter to you.
 
+If you want to hear about what I'm building, writing, and thinking about each week, then my Newsletter ➜ [here](https://linkincubator.substack.com/) 🫀
+
 ## Meta
 
 [[PodcastNotes]] - notes I extracted from various podcasts and interviews
-
-If you want to hear about what I'm building, writing, and thinking about each week, then my Newsletter ➜ [here](https://linkincubator.substack.com/) 🫀
-
 
 <strong>Recently updated notes</strong>
 
