@@ -4,45 +4,46 @@ title: Notes
 
 Content curation is crucial in a society where knowledge is abundant. A form of artistic expression. Curating is all about spotting the hidden gems and putting your skills and enthusiasm to work highlighting the bits that matter to you.
 
-- [[How to read higher quality books]]
-- [[Why more choice makes you unhappy]]
+[[How to read higher quality books]]
 
-- [[Creativity-Unlocking Experiments]]
+[[Why more choice makes you unhappy]]
 
-- [[Culture is brainwashing you]]
+[[Creativity-Unlocking Experiments]]
 
-- [[Execution is easy. Ideas are everything.]]
+[[Culture is brainwashing you]]
 
-- [[You should work with your garage door up]]
+[[Execution is easy. Ideas are everything.]]
 
-- [[Hacker culture in the 1800s]]
+[[You should work with your garage door up]]
 
-- [[A Hannibalistic aproach to life]]
+[[Hacker culture in the 1800s]]
 
-- [[History of the world in one line of code]]
+[[A Hannibalistic aproach to life]]
 
-- [[We need more information literacy]]
+[[History of the world in one line of code]]
 
-- [[Invest in things that eliminate friction]]
+[[We need more information literacy]]
 
-- [[Are humans isolating themselves to death?]]
+[[Invest in things that eliminate friction]]
 
-- [[Life will always be good]]
+[[Are humans isolating themselves to death?]]
 
-- [[Life Extension or Immortality]]
+[[Life will always be good]]
 
-- [[Living in a simulation]]
+[[Life Extension or Immortality]]
 
-- [[Use peripheral vision to diversify your productivity]]
+[[Living in a simulation]]
 
-- [[Become a strategic genius]]
+[[Use peripheral vision to diversify your productivity]]
 
-- [[Practice digital reset]]
+[[Become a strategic genius]]
 
-- [[Quit or keep going]]
+[[Practice digital reset]]
 
-- [[The consumer and the maker]]
+[[Quit or keep going]]
 
-- [[The language of aliens]]
+[[The consumer and the maker]]
 
-- [[Find time to write and reflect]]
+[[The language of aliens]]
+
+[[Find time to write and reflect]]
