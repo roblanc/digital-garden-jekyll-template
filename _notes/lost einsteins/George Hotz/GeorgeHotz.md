@@ -7,7 +7,9 @@ _George Francis Hotz (born October 2, 1989), alias geohot, is an American securi
 
 ## Podcast notes
 
-- [[George Hotz on Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God | Lex Fridman Podcast #387]]
+https://rtheory.xyz/georggehotz
+
+[George Hotz on Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God | Lex Fridman Podcast]
 
 ## Quotes & other bits 
 
