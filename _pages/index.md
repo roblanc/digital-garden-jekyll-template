@@ -16,3 +16,5 @@ If you want to hear about what I'm building, writing, and thinking about each we
 ## Meta
 
 [[PodcastNotes]] - notes I extracted from various podcasts and interviews
+
+[[Notes]] - These scribblings primarily serve as an expository outlet for my own edification: they roughly constitute the arena wherein my thought processes roam and ruminate.
