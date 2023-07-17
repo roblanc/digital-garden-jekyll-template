@@ -7,7 +7,6 @@ You can use the table of contents below to jump from one section to another.
 
 ## 1. Dillema
 
-
 The Simulation Hypothesis (SH) = we are living in a simulation
 
 The most aesthetically entrancing and popular Simulation Argument (SA) is the one provided by [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom).
