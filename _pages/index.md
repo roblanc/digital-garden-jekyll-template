@@ -16,10 +16,15 @@ If you want to hear about what I'm building, writing, and thinking about each we
 ## Meta
 
 [[Living in a simulation]]
+
 [[History of the world in one line of code]]
+
 [[Culture is brainwashing you]]
+
 [[Hacker culture in the 1800s]]
+
 [[The consumer and the maker]]
+
 [[The language of aliens]]
 
 ## General
@@ -30,6 +35,9 @@ If you want to hear about what I'm building, writing, and thinking about each we
 
 ## Thoughts
 
+
 [[A Hannibalistic aproach to life]]
+
 [[You should work with your garage door up]]
+
 [[Execution is easy. Ideas are everything.]]
