@@ -10,3 +10,5 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 [[The Systems Mindset Managing the Machinery of Your Life]]
 
 [[Tribe of mentors]]
+
+_still under migration_
