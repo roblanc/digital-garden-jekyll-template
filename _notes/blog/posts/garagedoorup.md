@@ -35,4 +35,4 @@ Sharing your work and working with the garage door up might sometimes come to yo
 
 - [Work with your garage door up](https://www.youtube.com/watch?v=xSsJCM-pBKg)
 
-[Just putting it out there](https://www.cjchilvers.com/blog/just-putting-it-out-there/)
+- [Just putting it out there](https://www.cjchilvers.com/blog/just-putting-it-out-there/)
