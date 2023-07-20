@@ -28,7 +28,6 @@ Now, there’s also this thing happening where your objects manage to stay on yo
 
 ### Peripheral vision in the digital space
 
-
 If you are looking at UI design, there’s a minimalist trend going on, where we’ve been trying to simplify our experience.
 
 We have eliminated all of the messy papers we used to have all across our desks, research notes, opened almanacs containing illustrations and often forgotten golden nuggets and, we dumped everything inside the rectangle.
