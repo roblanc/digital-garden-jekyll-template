@@ -15,6 +15,29 @@ If you want to hear about what I'm building, writing, and thinking about each we
 
 ## Meta
 
+[[Living in a simulation]]
+
+[[History of the world in one line of code]]
+
+[[Culture is brainwashing you]]
+
+[[Hacker culture in the 1800s]]
+
+[[The consumer and the maker]]
+
+[[The language of aliens]]
+
+## General
+
 [[Notes]] - These scribblings primarily serve as an expository outlet for my own edification: they roughly constitute the arena wherein my thought processes roam and ruminate.
 
-[[Notes from books]] - A bazaar of bottled brilliance and bracketed bits of brilliance distilled from a broad buffet of brainy breadths. 
+[[Notes from books]]📚 - A bazaar of bottled brilliance and bracketed bits of brilliance distilled from a broad buffet of brainy breadths. 
+
+## Thoughts
+
+
+[[A Hannibalistic aproach to life]]
+
+[[You should work with your garage door up]]
+
+[[Execution is easy. Ideas are everything.]]
