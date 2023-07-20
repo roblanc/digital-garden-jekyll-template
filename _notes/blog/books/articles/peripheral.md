@@ -41,7 +41,6 @@ If you are highlighting something while reading a digital book on Kindle, it can
 
 ### Using Second Monitors
 
-
 If you want to keep your desk clean and you are a digital minimalist as well, one thing you can do is to buy a second monitor. You do not need to get an overpowered one, but only one that can help you make use of your peripheral vision.
 
 This is how SpaceX does it while launching a rocket into space. The engineers there are not fully locked inside their rectangles but have two, three, four monitors in place, papers on their desks, and they are also connected with their peers.
@@ -55,7 +54,6 @@ I am also sometimes making use of a small tablet where I have a YouTube, a Spoti
 I’m working on my main monitor and I use the second one as a sort of a whiteboard, where I will keep my to-do list, my inbox with things to process, and things I would want to check and it is also a location where I place various links to videos, research, articles I stumble upon while working on my current task. The reason I keep one of these open is that I do not want to break my flow and start going down that thread I found, so need a quick way to put it somewhere and read it later. And the second monitor is mostly static, again, it is like a whiteboard.
 
 ### Using Physical To Aid Digital
-
 
 One small thing I added to my physical space so that I can make use of my peripheral vision is a simple Rubick’s cube that is in close proximity to my hands, so that I can be more inclined to pick it up. Not necessarily finish it, but simply play around with it.
 
@@ -72,7 +70,6 @@ I would be more inclined to pick up a brush, or a specific pencil if I can see i
 Keeping my notes slightly messy on purpose, to encourage connections and expand my horizon.
 
 ### There is balance to be found
-
 
 And in this world of continuous output, there’s a simple and clean desk setup trend, with people having ultra-minimal desks, almost ending to having no desk at all and doing the work using thin air.
 
