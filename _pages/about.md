@@ -5,6 +5,8 @@ permalink: /about
 ---
 
 *This is an about page.*
+sss
+Test test 
 
 I am generally interested in anything that doesn't reduce my optionality and things that you can do once that work in perpetuity.
 
