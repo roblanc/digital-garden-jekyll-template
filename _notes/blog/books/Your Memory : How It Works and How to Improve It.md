@@ -1,9 +1,6 @@
 ---
 title: Your Memory - How It Works and How to Improve It
 ---
-
-### Your Memory : How It Works and How to Improve It
-
 Author: Kenneth L. Higbee
 
 Category: Self-Help
