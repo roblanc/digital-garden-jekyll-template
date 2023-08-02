@@ -3,7 +3,6 @@ title: Your Memory - How It Works and How to Improve It
 ---
 Author: Kenneth L. Higbee
 
-Category: Self-Help
 Status: Finished
 
 One of the main determinants of how easy something is to learn is how meaningful it is to the learner. If it doesn’t make sense, it will be hard to learn.

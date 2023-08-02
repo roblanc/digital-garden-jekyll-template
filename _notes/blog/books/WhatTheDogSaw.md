@@ -3,10 +3,8 @@ title: What the dog saw
 ---
 
 Author: Malcom Gladwell
-Category: Self-Help
 Date Published: 2009
 Date Read: 2016
-Rating: ★★★
 Status: Finished
 
 ## Synopsis
