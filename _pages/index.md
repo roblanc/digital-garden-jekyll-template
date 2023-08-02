@@ -31,10 +31,9 @@ If you want to hear about what I'm building, writing, and thinking about each we
 
 [[Notes]] - These scribblings primarily serve as an expository outlet for my own edification: they roughly constitute the arena wherein my thought processes roam and ruminate.
 
-[[Notes from books]]📚 - A bazaar of bottled brilliance and bracketed bits of brilliance distilled from a broad buffet of brainy breadths. 
+[[Notes from books]] - A bazaar of bottled brilliance and bracketed bits of brilliance distilled from a broad buffet of brainy breadths. 
 
 ## Thoughts
-
 
 [[A Hannibalistic aproach to life]]
 
