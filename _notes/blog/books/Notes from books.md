@@ -27,4 +27,10 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 
 [[Meditations]]
 
+[[A brave new world]]
+
+[[What I Talk about When I Talk about Running: A Memoir]]
+
+[[Way of the Warrior Kid: From Wimpy to Warrior the Navy SEAL Way]]
+
 _still under migration_ 
