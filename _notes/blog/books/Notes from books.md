@@ -17,4 +17,6 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 
 [[What the dog saw]]
 
+[[Man's Search for Meaning]]
+
 _still under migration_ 
