@@ -34,3 +34,5 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 [[Way of the Warrior Kid - From Wimpy to Warrior the Navy SEAL Way]]
 
 [[Make it Stick]]
+
+[[Understand]]
