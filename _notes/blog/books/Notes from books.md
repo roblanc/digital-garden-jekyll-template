@@ -15,7 +15,6 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 
 [[Your Memory : How It Works and How to Improve It]]
 
-[[What the god saw]]
-
+[[What the dog saw]]
 
 _still under migration_ 
