@@ -21,4 +21,10 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 
 [[Fooled by Randomness]]
 
+[[Discover your inner economist]]
+
+[[Zero to One - Notes on Startups, or How to Build the Future]]
+
+[[Meditations]]
+
 _still under migration_ 
