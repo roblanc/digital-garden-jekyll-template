@@ -19,4 +19,6 @@ A curated cavalcade of crystallized concepts and condensed corollaries culled fr
 
 [[Man's Search for Meaning]]
 
+[[Fooled by Randomness]]
+
 _still under migration_ 
